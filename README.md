@@ -1,7 +1,9 @@
 <h1 align="center">Welcome to tupa-bot-wpp 👋</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
-</p>
+<div align="center">
+  <p>
+    <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
+  </p>
+</div>
 
 > A Whatsapp bot to transform images, videos and gifs into sticker and send it back to sender.
 
