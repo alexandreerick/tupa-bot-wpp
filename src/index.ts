@@ -9,7 +9,7 @@ function start(client: Client) {
     // console.log('MENSAGEM TESTE', message);
 
       // SEND VIDEO AND GIF AS STICKER
-      if (message.type === 'video') {
+      if (message.type === 'video' && !message.isGroupMsg) {
         const mediaData = await decryptMedia(message);
         const imageBase64 = `data:${message.mimetype};base64,${mediaData.toString(
           'base64'
