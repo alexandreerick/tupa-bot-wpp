@@ -19,8 +19,8 @@ function start(client: Client) {
           imageBase64,
           {},
           {
-            author: 'ChumChum BOT',
-            pack: 'ChumChum BOT',
+            author: 'Tupa BOT',
+            pack: 'Tupa BOT',
             keepScale: true,
           }
         );
@@ -37,8 +37,8 @@ function start(client: Client) {
           message.sender.id,
           imageBase64,
           {
-            author: 'ChumChum BOT',
-            pack: 'ChumChum BOT',
+            author: 'Tupa BOT',
+            pack: 'Tupa BOT',
             keepScale: true
           }
         );
@@ -57,8 +57,8 @@ function start(client: Client) {
             imageBase64,
             {},
             {
-              author: 'ChumChum BOT',
-              pack: 'ChumChum BOT',
+              author: 'Tupa BOT',
+              pack: 'Tupa BOT',
               keepScale: true
             }
           );
@@ -74,8 +74,8 @@ function start(client: Client) {
             message.from,
             imageBase64,
             {
-              author: 'ChumChum BOT',
-              pack: 'ChumChum BOT',
+              author: 'Tupa BOT',
+              pack: 'Tupa BOT',
               keepScale: true
             }
           );
