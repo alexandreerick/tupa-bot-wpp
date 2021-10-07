@@ -19,9 +19,5 @@ yarn dev
 * Github: [@alexandreerick](https://github.com/alexandreerick)
 * LinkedIn: [@erick-alexandre-83007b139](https://linkedin.com/in/erick-alexandre-83007b139)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
