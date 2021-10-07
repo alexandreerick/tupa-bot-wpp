@@ -17,7 +17,6 @@ yarn dev
 
 👤 **Erick Alexandre**
 
-* Website: https://erickalexandre.com
 * Github: [@alexandreerick](https://github.com/alexandreerick)
 * LinkedIn: [@erick-alexandre-83007b139](https://linkedin.com/in/erick-alexandre-83007b139)
 
