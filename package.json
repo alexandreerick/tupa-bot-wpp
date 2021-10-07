@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.23.0"
+  }
+}
